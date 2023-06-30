@@ -10,3 +10,15 @@ C:\Users\sygtt\source\repos\Server\ServerCore\obj\Debug\net6.0\ServerCore.dll
 C:\Users\sygtt\source\repos\Server\ServerCore\obj\Debug\net6.0\refint\ServerCore.dll
 C:\Users\sygtt\source\repos\Server\ServerCore\obj\Debug\net6.0\ServerCore.pdb
 C:\Users\sygtt\source\repos\Server\ServerCore\obj\Debug\net6.0\ref\ServerCore.dll
+C:\Repos\ServerStudy\Server\ServerCore\bin\Debug\net6.0\ServerCore.deps.json
+C:\Repos\ServerStudy\Server\ServerCore\bin\Debug\net6.0\ServerCore.dll
+C:\Repos\ServerStudy\Server\ServerCore\bin\Debug\net6.0\ServerCore.pdb
+C:\Repos\ServerStudy\Server\ServerCore\obj\Debug\net6.0\ServerCore.csproj.AssemblyReference.cache
+C:\Repos\ServerStudy\Server\ServerCore\obj\Debug\net6.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\ServerStudy\Server\ServerCore\obj\Debug\net6.0\ServerCore.AssemblyInfoInputs.cache
+C:\Repos\ServerStudy\Server\ServerCore\obj\Debug\net6.0\ServerCore.AssemblyInfo.cs
+C:\Repos\ServerStudy\Server\ServerCore\obj\Debug\net6.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Repos\ServerStudy\Server\ServerCore\obj\Debug\net6.0\ServerCore.dll
+C:\Repos\ServerStudy\Server\ServerCore\obj\Debug\net6.0\refint\ServerCore.dll
+C:\Repos\ServerStudy\Server\ServerCore\obj\Debug\net6.0\ServerCore.pdb
+C:\Repos\ServerStudy\Server\ServerCore\obj\Debug\net6.0\ref\ServerCore.dll

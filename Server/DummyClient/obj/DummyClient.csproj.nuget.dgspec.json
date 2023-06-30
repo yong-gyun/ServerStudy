@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sygtt\\source\\repos\\Server\\DummyClient\\DummyClient.csproj": {}
+    "C:\\Repos\\ServerStudy\\Server\\DummyClient\\DummyClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sygtt\\source\\repos\\Server\\DummyClient\\DummyClient.csproj": {
+    "C:\\Repos\\ServerStudy\\Server\\DummyClient\\DummyClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sygtt\\source\\repos\\Server\\DummyClient\\DummyClient.csproj",
+        "projectUniqueName": "C:\\Repos\\ServerStudy\\Server\\DummyClient\\DummyClient.csproj",
         "projectName": "DummyClient",
-        "projectPath": "C:\\Users\\sygtt\\source\\repos\\Server\\DummyClient\\DummyClient.csproj",
+        "projectPath": "C:\\Repos\\ServerStudy\\Server\\DummyClient\\DummyClient.csproj",
         "packagesPath": "C:\\Users\\sygtt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sygtt\\source\\repos\\Server\\DummyClient\\obj\\",
+        "outputPath": "C:\\Repos\\ServerStudy\\Server\\DummyClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sygtt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\sygtt\\source\\repos\\Server\\ServerCore\\ServerCore.csproj": {
-                "projectPath": "C:\\Users\\sygtt\\source\\repos\\Server\\ServerCore\\ServerCore.csproj"
+              "C:\\Repos\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj": {
+                "projectPath": "C:\\Repos\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\sygtt\\source\\repos\\Server\\ServerCore\\ServerCore.csproj": {
+    "C:\\Repos\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sygtt\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
+        "projectUniqueName": "C:\\Repos\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
         "projectName": "ServerCore",
-        "projectPath": "C:\\Users\\sygtt\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
+        "projectPath": "C:\\Repos\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
         "packagesPath": "C:\\Users\\sygtt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sygtt\\source\\repos\\Server\\ServerCore\\obj\\",
+        "outputPath": "C:\\Repos\\ServerStudy\\Server\\ServerCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sygtt\\AppData\\Roaming\\NuGet\\NuGet.Config",

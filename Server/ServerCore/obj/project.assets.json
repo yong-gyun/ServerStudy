@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sygtt\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
+      "projectUniqueName": "C:\\Repos\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
       "projectName": "ServerCore",
-      "projectPath": "C:\\Users\\sygtt\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
+      "projectPath": "C:\\Repos\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
       "packagesPath": "C:\\Users\\sygtt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sygtt\\source\\repos\\Server\\ServerCore\\obj\\",
+      "outputPath": "C:\\Repos\\ServerStudy\\Server\\ServerCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sygtt\\AppData\\Roaming\\NuGet\\NuGet.Config",

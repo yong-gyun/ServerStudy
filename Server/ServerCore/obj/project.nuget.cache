@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d8rmZHnw9xJ+XZZED9o5LzVgJn8wOaFeGw208GeCaav8SgZywXVonKmO207/2Zapp4TiX0VW8+ewtRB5l7T58Q==",
+  "dgSpecHash": "dtzRpSdADTdL/4yvcS9etaTGOZ9oOQ/y+2P/wtVVh40PE/RZqlKmG4oDUWogHP+2FavpkmnuO04cIYXV1tM/NQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sygtt\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
+  "projectFilePath": "C:\\Repos\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
